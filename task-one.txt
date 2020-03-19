@@ -1,0 +1,5 @@
+NAME: Ebuka Abraham
+EMAIL ADDRESS: buka4rill@gmail.com
+SLACK USERNAME: buka4rill
+TRACKS: backend track
+COURSES: C#
